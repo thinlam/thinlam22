@@ -1,4 +1,4 @@
-<!-- BANNER -->
+<img width="1920" height="909" alt="image" src="https://github.com/user-attachments/assets/bb18bdca-7edd-4095-947f-fd3a6e5184b6" /><!-- BANNER -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=CHÍP+CHÍP+-+GAME+%26+MOBILE+DEVELOPER;Welcome+to+My+Github+Profile+%F0%9F%94%A5;Neon+Gaming+%7C+Cyberpunk+Style" />
 </p>
