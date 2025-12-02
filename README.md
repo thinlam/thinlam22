@@ -44,19 +44,29 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thinlam22&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinlam22&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinlam22&layout=compact&theme=radical&title_color=00F0FF&text_color=FFFFFF&bg_color=0D1117" />
 </p>
 
 ---
+## ⚡ My Main Languages (Neon Gaming Style)
 
+![C#](https://img.shields.io/badge/C%23-00F0FF?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000)
+![Java](https://img.shields.io/badge/Java-00F0FF?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=000000)
+![Kotlin](https://img.shields.io/badge/Kotlin-00F0FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000)
+![Dart](https://img.shields.io/badge/Dart-00F0FF?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000)
+![Swift](https://img.shields.io/badge/Swift-00F0FF?style=for-the-badge&logo=swift&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-00F0FF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)
+![React Native](https://img.shields.io/badge/React_Native-00F0FF?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
+
+
+---
 ## 📌 Featured Mobile Projects
 
 ### 📱 English For Beginners
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thinlam22&repo=English-For-Beginners&theme=tokyonight)](https://github.com/thinlam22/English-For-Beginners)
+(https://github.com/thinlam/EFB_EnglishForBeginner)
 
 ### 🧮 Math Master
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thinlam22&repo=Math-Master&theme=tokyonight)](https://github.com/thinlam22/Math-Master)
+(https://github.com/thinlam/Math_Master)
 
 ---
 
@@ -68,7 +78,6 @@
 ---
 
 ## 📬 Connect with Me
-- 📌 **Facebook:** (thêm link của bạn)
-- ✉️ **Email:** (email của bạn)
-- 🌐 **Website:** (nếu có)
+- 📌 **Facebook:** (https://www.facebook.com/chipchipJUNO)
+- ✉️ **Email:** (thinlam6@gmail.com)
 
