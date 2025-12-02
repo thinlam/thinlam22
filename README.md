@@ -54,10 +54,10 @@
 ## 📌 Featured Mobile Projects
 
 ### 📱 English For Beginners
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thinlam22&repo=English-For-Beginners&theme=tokyonight)](https://github.com/thinlam22/English-For-Beginners)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thinlam22&repo=English-For-Beginners&theme=tokyonight)](https://github.com/thinlam/EFB_EnglishForBeginner)
 
 ### 🧮 Math Master
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thinlam22&repo=Math-Master&theme=tokyonight)](https://github.com/thinlam22/Math-Master)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thinlam22&repo=Math-Master&theme=tokyonight)](https://github.com/thinlam/Math_Master)
 
 ---
 
