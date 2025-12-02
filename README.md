@@ -44,8 +44,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinlam22&layout=compact&theme=radical&title_color=00F0FF&text_color=FFFFFF&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thinlam22&show_icons=true&theme=radical&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&bg_color=0D1117" />
 </p>
+
 
 ---
 ## ⚡ My Main Languages (Neon Gaming Style)
