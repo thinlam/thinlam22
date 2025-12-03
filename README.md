@@ -50,15 +50,29 @@
 
 # ⚡ **Main Languages (Neon Badges)**
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-00F0FF?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-00F0FF?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-00F0FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-00F0FF?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-00F0FF?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-00F0FF?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-00F0FF?style=for-the-badge&logo=react&logoColor=white" />
+<p align="center">
+  <!-- C# -->
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=00F0FF&labelColor=000000&color=00141A"/>
+
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F0FF&labelColor=000000&color=00141A"/>
+
+  <!-- Kotlin -->
+  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=00F0FF&labelColor=000000&color=00141A"/>
+
+  <!-- Dart -->
+  <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=00F0FF&labelColor=000000&color=00141A"/>
+
+  <!-- Swift -->
+  <img src="https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=00F0FF&labelColor=000000&color=00141A"/>
+
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F0FF&labelColor=000000&color=00141A"/>
+
+  <!-- React Native -->
+  <img src="https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=00F0FF&labelColor=000000&color=00141A"/>
 </p>
+
 
 ---
 
