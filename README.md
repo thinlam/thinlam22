@@ -1,5 +1,7 @@
 
 <p align="center">
+  <img src="LINK_LOGO_CỦA_BẠN" height="60" style="margin-right:10px;" />
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=CHÍP+CHÍP+-+GAME+%26+MOBILE+DEVELOPER;Welcome+to+My+Github+Profile+🔥;Neon+Gaming+%7C+Cyberpunk+Style" />
 </p>
 
