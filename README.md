@@ -44,10 +44,26 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,python,go&theme=dark" />
 </p>
 
+### 🤖 **AI & Productivity Tools**
+<p>
+  <!-- GitHub Copilot -->
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=00F0FF&labelColor=000000&color=00141A" />
+  
+  <!-- ChatGPT -->
+  <img src="https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=00F0FF&labelColor=000000&color=00141A" />
+  
+  <!-- Google Gemini -->
+  <img src="https://img.shields.io/badge/Google%20Gemini-0D1117?style=for-the-badge&logo=google&logoColor=00F0FF&labelColor=000000&color=00141A" />
+  
+  <!-- Các AI tool khác (VS Code extensions, v.v.) -->
+  <img src="https://img.shields.io/badge/AI%20Code%20Assist-0D1117?style=for-the-badge&logo=sparkfun&logoColor=00F0FF&labelColor=000000&color=00141A" />
+</p>
+
 ### 🔧 **Other Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker&theme=dark" />
 </p>
+
 
 ---
 
